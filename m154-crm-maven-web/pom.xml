@@ -5,8 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
-  
-  
     <name>ilv</name>
   <url>http://maven.apache.org</url>
 
@@ -34,6 +32,23 @@
     	<artifactId>javalin</artifactId>
     	<version>3.8.0</version>
 	</dependency>
+	<dependency>
+    	<groupId>org.jetbrains.kotlin</groupId>
+    	<artifactId>kotlin-stdlib</artifactId>
+    	<version>1.3.61</version>
+	</dependency>
+	<dependency>
+    	<groupId>javax.servlet</groupId>
+    	<artifactId>javax.servlet-api</artifactId>
+    	<version>3.1.0</version>
+    	<scope>provided</scope>
+	</dependency>
+	<dependency>
+	  <groupId>kompetenznachweis</groupId>
+	  <artifactId>154-crm-maven-business</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	
     
   </dependencies>
 </project>
