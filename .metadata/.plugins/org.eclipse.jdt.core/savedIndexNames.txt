@@ -5,7 +5,6 @@ INDEX VERSION 1.131+C:\Users\Matus\Desktop\Kompetenznachweis\workspace_M154_knw\
 1986712267.index
 1912008364.index
 3761425445.index
-384128738.index
 2843089096.index
 2045723129.index
 1912420435.index
@@ -64,7 +63,6 @@ INDEX VERSION 1.131+C:\Users\Matus\Desktop\Kompetenznachweis\workspace_M154_knw\
 2524582838.index
 1869845686.index
 2543863353.index
-3677234583.index
 1317505122.index
 2585168013.index
 4117994704.index
